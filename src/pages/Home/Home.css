@@ -112,20 +112,37 @@
   background: var(--color-border);
 }
 
-/* Mockup Visual */
 .mockup-visual {
   flex: 1;
-  display: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  perspective: 1000px;
   position: relative;
   min-height: 400px;
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 1023px) {
   .mockup-visual {
-    display: flex;
+    transform: scale(0.85);
+    min-height: 350px;
+  }
+}
+
+@media (max-width: 719px) {
+  .mockup-visual {
+    transform: scale(0.75);
+    min-height: 280px;
+    margin-top: -30px;
+  }
+  .hero-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+  .hero-content {
     align-items: center;
-    justify-content: center;
-    perspective: 1000px;
+    display: flex;
+    flex-direction: column;
   }
 }
 
