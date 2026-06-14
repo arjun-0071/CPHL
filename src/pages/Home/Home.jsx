@@ -77,13 +77,13 @@ export default function Home() {
                     </div>
                     <div className="mockup-grid">
                       <div className="mockup-p-card">
-                        <div className="mockup-img-ph"><img src="/products/AMB_KOF_PLUS_SYRUP.jpg" alt="Syrup" /></div>
+                        <div className="mockup-img-ph"><img src="/products/Benadryl.jpeg" alt="Syrup" /></div>
                         <div className="mockup-line w-60"></div>
                         <div className="mockup-line w-40"></div>
                         <div className="mockup-btn-add" id="btn-add-1"></div>
                       </div>
                       <div className="mockup-p-card">
-                        <div className="mockup-img-ph"><img src="/products/BolnolExtraTablet.jpg" alt="Tablet" /></div>
+                        <div className="mockup-img-ph"><img src="/products/Augmentin-625.jpeg" alt="Tablet" /></div>
                         <div className="mockup-line w-70"></div>
                         <div className="mockup-line w-30"></div>
                         <div className="mockup-btn-add" id="btn-add-2"></div>
@@ -98,14 +98,14 @@ export default function Home() {
                     </div>
                     <div className="mockup-cart-list">
                       <div className="mockup-cart-item">
-                        <div className="mockup-img-sm"><img src="/products/AMB_KOF_PLUS_SYRUP.jpg" alt="Syrup" /></div>
+                        <div className="mockup-img-sm"><img src="/products/Benadryl.jpeg" alt="Syrup" /></div>
                         <div className="mockup-cart-details">
                           <div className="mockup-line w-70"></div>
                           <div className="mockup-line w-30"></div>
                         </div>
                       </div>
                       <div className="mockup-cart-item">
-                        <div className="mockup-img-sm"><img src="/products/BolnolExtraTablet.jpg" alt="Tablet" /></div>
+                        <div className="mockup-img-sm"><img src="/products/Augmentin-625.jpeg" alt="Tablet" /></div>
                         <div className="mockup-cart-details">
                           <div className="mockup-line w-60"></div>
                           <div className="mockup-line w-40"></div>
