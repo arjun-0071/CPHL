@@ -2775,6 +2775,497 @@ export const products = [
       "Storage": "Store below 25°C. Do not freeze. Inspect for clarity and particulate matter before use. Single-use — discard unused portion.",
       "Disclaimer": "For hospital/clinical use under medical supervision only. Fluid resuscitation must be guided by continuous haemodynamic and laboratory monitoring."
     }
+  },
+  {
+    "id": "monocef-1g-injection",
+    "name": "Monocef 1g Injection",
+    "category": "Injection",
+    "image": "/products/Monocef 1g Injection (Ceftriaxone).jpg",
+    "shortDescription": "Sterile broad-spectrum cephalosporin antibiotic powder (Ceftriaxone Sodium) for severe bacterial infections, meningitis, and post-operative prophylaxis.",
+    "description": "Monocef 1g Injection is a sterile, broad-spectrum cephalosporin antibiotic powder containing Ceftriaxone Sodium (C16H18N8O7S3). It is reconstituted with sterile water before intravenous (IV) or intramuscular (IM) administration. It acts by inhibiting bacterial cell wall synthesis, causing cell death. It is highly effective against severe bacterial infections, including meningitis, pneumonia, typhoid fever, and complicated urinary tract infections (UTIs). It is also routinely used as a prophylactic antibiotic before major surgeries to prevent surgical-site infections.",
+    "benefits": [
+      "Highly effective against severe bacterial infections (meningitis, pneumonia, typhoid)",
+      "Provides reliable surgical-site infection prophylaxis",
+      "Broad-spectrum bactericidal action via cell wall synthesis inhibition",
+      "Can be administered either via IV or IM routes after reconstitution"
+    ],
+    "tags": [
+      "antibiotic",
+      "bacterial infection",
+      "typhoid",
+      "post-operative",
+      "ceftriaxone",
+      "injection"
+    ],
+    "price": "58",
+    "specifications": {
+      "Product Type": "Injection (Powder for Reconstitution)",
+      "Composition": "Ceftriaxone Sodium 1g",
+      "Dosage - Adults": "1g to 2g once daily (or in equally divided doses twice a day), depending on severity",
+      "Dosage - Children": "50 to 75 mg/kg body weight per day in divided doses every 12 hours",
+      "Indications": "Meningitis; Pneumonia; Typhoid fever; Complicated UTIs; Surgical prophylaxis",
+      "Precautions": "Must be administered by a healthcare professional. Rapid IV push can cause severe arrhythmias; infuse slowly. Avoid in severe penicillin/cephalosporin allergies.",
+      "Storage": "Store below 25°C. Use immediately after reconstitution.",
+      "Disclaimer": "Prescription only. Must be administered by a qualified medical professional."
+    }
+  },
+  {
+    "id": "pantocid-iv-injection",
+    "name": "Pantocid IV Injection",
+    "category": "Injection",
+    "image": "/products/Pantocid IV Injection (Pantoprazole).avif",
+    "shortDescription": "Lyophilized Pantoprazole 40mg injection for rapid suppression of stomach acid in bleeding ulcers, severe GERD, and ICU stress ulcer prophylaxis.",
+    "description": "Pantocid IV Injection is a lyophilized powder containing 40mg of Pantoprazole (C16H15F2N3O4S), a potent Proton Pump Inhibitor (PPI), which is reconstituted with 0.9% Sodium Chloride (Normal Saline). It rapidly suppresses stomach acid production by irreversibly blocking the H+/K+ ATPase enzyme system at the secretory surface of the gastric parietal cell. It is a life-saving intervention for bleeding peptic ulcers, severe Gastroesophageal Reflux Disease (GERD), and preventing stress ulcers in critically ill patients in the ICU.",
+    "benefits": [
+      "Rapid and profound suppression of gastric acid production",
+      "Life-saving intervention for bleeding peptic ulcers",
+      "Highly effective stress ulcer prophylaxis in ICU patients",
+      "Provides immediate relief for severe GERD when oral therapy is impossible"
+    ],
+    "tags": [
+      "antacid",
+      "ulcer relief",
+      "gerd",
+      "proton pump inhibitor",
+      "pantoprazole",
+      "injection"
+    ],
+    "price": "50",
+    "specifications": {
+      "Product Type": "Injection (Lyophilized Powder)",
+      "Composition": "Pantoprazole 40mg",
+      "Dosage - Adults": "40mg administered intravenously once a day for 7 to 10 days",
+      "Dosage - Children": "Not routinely recommended unless under strict pediatric gastrointestinal supervision",
+      "Indications": "Bleeding peptic ulcers; Severe GERD; ICU stress ulcer prophylaxis",
+      "Precautions": "Administer as a slow IV injection over 2 to 15 minutes. Prolonged use can lead to hypomagnesemia.",
+      "Storage": "Store below 25°C. Protect from light.",
+      "Disclaimer": "Prescription only. For hospital/clinical use only."
+    }
+  },
+  {
+    "id": "dynapar-aq-injection",
+    "name": "Dynapar AQ Injection",
+    "category": "Injection",
+    "image": "/products/Dynapar AQ Injection (Diclofenac).webp",
+    "shortDescription": "Aqueous Diclofenac Sodium 75mg injection in a painless benzyl alcohol base for rapid relief from acute pain, post-surgical trauma, and renal colic.",
+    "description": "Dynapar AQ Injection is an aqueous solution containing 75mg of Diclofenac Sodium (C14H10Cl2NNaO2), a powerful Non-Steroidal Anti-Inflammatory Drug (NSAID). Unlike older oil-based formulations, it is formulated with a painless benzyl alcohol base for superior patient comfort. It provides rapid and profound relief from acute pain by inhibiting cyclooxygenase (COX) enzymes, thereby reducing prostaglandin synthesis. It is highly effective for post-surgical trauma, severe back spasms, acute gout attacks, and pain originating from kidney stones (renal colic).",
+    "benefits": [
+      "Painless aqueous formulation (benzyl alcohol base) ensures comfortable administration",
+      "Provides rapid, profound relief from acute and severe pain",
+      "Highly effective for renal colic, gout, and post-operative pain",
+      "Strong anti-inflammatory action reduces localized tissue swelling"
+    ],
+    "tags": [
+      "painkiller",
+      "nsaid",
+      "anti-inflammatory",
+      "acute pain",
+      "diclofenac",
+      "injection"
+    ],
+    "price": "40",
+    "specifications": {
+      "Product Type": "Injection (Aqueous Solution)",
+      "Composition": "Diclofenac Sodium 75mg/1ml",
+      "Dosage - Adults": "1ml (75mg) IM once daily; in severe cases, twice daily (max 150mg/day)",
+      "Dosage - Children": "Not recommended",
+      "Indications": "Post-surgical pain; Renal colic; Acute gout; Severe musculoskeletal spasms",
+      "Precautions": "Contraindicated in active stomach ulcers, advanced CKD, or severe heart failure. May cause dizziness.",
+      "Storage": "Store below 30°C. Protect from light. Do not freeze.",
+      "Disclaimer": "Prescription only. Must be administered by a qualified professional."
+    }
+  },
+  {
+    "id": "emeset-2ml-injection",
+    "name": "Emeset 2ml Injection",
+    "category": "Injection",
+    "image": "/products/Emeset 2ml Injection (Ondansetron).avif",
+    "shortDescription": "Ondansetron (5-HT3 receptor antagonist) injection for fast-acting, highly effective relief from severe nausea and vomiting induced by chemotherapy, surgery, or gastroenteritis.",
+    "description": "Emeset 2ml Injection is a clear liquid injection containing Ondansetron (C18H19N3O), a highly selective 5-HT3 serotonin receptor antagonist. It acts both peripherally on vagal nerve terminals and centrally in the chemoreceptor trigger zone to block the vomiting reflex. It provides highly effective, fast-acting relief from severe nausea and vomiting induced by chemotherapy, radiation therapy, severe gastroenteritis, or post-operative recovery, dramatically improving patient comfort and hydration status.",
+    "benefits": [
+      "Targeted 5-HT3 receptor antagonism stops the vomiting reflex at its source",
+      "Highly effective for chemotherapy-induced and post-operative nausea",
+      "Rapid onset of action prevents severe dehydration from vomiting",
+      "Non-sedating alternative to older antiemetics"
+    ],
+    "tags": [
+      "antiemetic",
+      "vomiting",
+      "nausea relief",
+      "chemotherapy",
+      "ondansetron",
+      "injection"
+    ],
+    "price": "13",
+    "specifications": {
+      "Product Type": "Injection (Solution)",
+      "Composition": "Ondansetron 2mg/ml (Total 4mg in 2ml ampoule)",
+      "Dosage - Adults": "4mg to 8mg by slow IV or IM injection as needed",
+      "Dosage - Children": "0.15 mg/kg body weight via slow IV",
+      "Indications": "Chemotherapy/radiotherapy-induced nausea; Post-operative vomiting; Severe gastroenteritis",
+      "Precautions": "Can cause temporary QT interval prolongation. Use with caution in cardiac arrhythmias.",
+      "Storage": "Store below 30°C. Protect from light.",
+      "Disclaimer": "Prescription only. Administer under medical supervision."
+    }
+  },
+  {
+    "id": "dexona-2ml-injection",
+    "name": "Dexona 2ml Injection",
+    "category": "Injection",
+    "image": "/products/Dexona 2ml Injection (Dexamethasone).jpg",
+    "shortDescription": "Potent synthetic glucocorticoid (Dexamethasone) injection used in emergency medicine for anaphylaxis, severe asthma, autoimmune flares, and cerebral edema.",
+    "description": "Dexona 2ml Injection is a potent synthetic glucocorticoid (steroid) injection containing Dexamethasone Sodium Phosphate (C22H28FNa2O8P) at a concentration of 4mg per 1ml. It acts as a rapid-response anti-inflammatory and immunosuppressant by profoundly inhibiting the release of inflammatory cytokines and modifying the body's immune response. It is a critical, life-saving drug in emergency medicine for treating anaphylaxis (severe allergic reactions), severe asthma flare-ups, acute autoimmune flares, and managing cerebral edema (brain swelling).",
+    "benefits": [
+      "Life-saving rapid action in anaphylaxis and severe acute asthma",
+      "Potent immunosuppressive and anti-inflammatory effects",
+      "Crucial for reducing cerebral edema and intracranial pressure",
+      "Long biological half-life provides sustained symptomatic relief"
+    ],
+    "tags": [
+      "steroid",
+      "anti-inflammatory",
+      "allergy relief",
+      "emergency medicine",
+      "dexamethasone",
+      "injection"
+    ],
+    "price": "11",
+    "specifications": {
+      "Product Type": "Injection (Solution)",
+      "Composition": "Dexamethasone Sodium Phosphate 4mg/ml (Total 8mg in 2ml)",
+      "Dosage - Adults": "4mg to 20mg daily IV or IM, based on severity",
+      "Dosage - Children": "0.08 to 0.3 mg/kg/day divided in 3-4 doses",
+      "Indications": "Anaphylaxis; Severe asthma; Cerebral edema; Autoimmune flares",
+      "Precautions": "Sudden withdrawal after prolonged use causes adrenal crisis. Spikes blood glucose (monitor diabetics).",
+      "Storage": "Store below 30°C. Protect from light. Do not freeze.",
+      "Disclaimer": "Prescription only. Emergency/hospital use medication."
+    }
+  },
+  {
+    "id": "doxy-1-100mg-capsule",
+    "name": "Doxy-1 100mg Capsule",
+    "category": "Capsule",
+    "image": "/products/Doxy-1 100mg Capsule.webp",
+    "shortDescription": "Broad-spectrum tetracycline antibiotic (Doxycycline) highly effective against respiratory infections, severe acne, and tick-borne illnesses.",
+    "description": "Doxy-1 100mg Capsule contains Doxycycline (C22H24N2O8), a broad-spectrum tetracycline-class antibiotic. It works by reversibly binding to the 30S ribosomal subunit of bacteria, effectively inhibiting bacterial protein synthesis and replication. It has excellent tissue penetration and is highly effective in treating atypical respiratory tract infections, severe nodulocystic acne, chlamydia, urinary tract infections, and various tick-borne illnesses (like Lyme disease).",
+    "benefits": [
+      "Excellent tissue penetration makes it highly effective for severe acne",
+      "First-line treatment for atypical pneumonias and tick-borne diseases",
+      "Broad-spectrum activity against both Gram-positive and Gram-negative bacteria",
+      "Convenient twice-daily dosing regimen"
+    ],
+    "tags": [
+      "antibiotic",
+      "acne relief",
+      "doxycycline",
+      "bacterial infection",
+      "capsule"
+    ],
+    "price": "40",
+    "specifications": {
+      "Product Type": "Capsule",
+      "Composition": "Doxycycline 100mg",
+      "Dosage - Adults": "1 capsule twice daily for 5-14 days",
+      "Dosage - Children": "Above 8 years: 2-4 mg/kg/day in two doses. Not for <8 years.",
+      "Indications": "Respiratory infections; Severe acne; UTIs; Tick-borne illnesses",
+      "Precautions": "Causes photosensitivity (wear sunscreen). Swallow whole with water while upright. Do not take with dairy or antacids.",
+      "Storage": "Store in a cool, dry place away from light.",
+      "Disclaimer": "Prescription antibiotic. Complete the full course."
+    }
+  },
+  {
+    "id": "sporidex-500-capsule",
+    "name": "Sporidex 500 Capsule",
+    "category": "Capsule",
+    "image": "/products/Sporidex 500 Capsule.avif",
+    "shortDescription": "First-generation cephalosporin antibiotic (Cephalexin) for effective treatment of skin, soft tissue, and respiratory tract infections including strep throat.",
+    "description": "Sporidex 500 Capsule contains Cephalexin (C16H17N3O4S), a highly effective first-generation cephalosporin antibiotic. It acts bactericidally by binding to penicillin-binding proteins (PBPs), inhibiting the final transpeptidation step of peptidoglycan synthesis in the bacterial cell wall, leading to cell lysis. It provides excellent coverage against Gram-positive cocci (Staphylococcus and Streptococcus) and is commonly prescribed to treat skin and soft tissue infections, wound infections, bone infections, and streptococcal pharyngitis (strep throat).",
+    "benefits": [
+      "Excellent efficacy against skin, wound, and soft tissue infections",
+      "Reliable first-line therapy for streptococcal pharyngitis",
+      "Strong bactericidal action via cell wall disruption",
+      "Well-absorbed orally with predictable pharmacokinetics"
+    ],
+    "tags": [
+      "antibiotic",
+      "skin infection",
+      "cephalosporin",
+      "wound care",
+      "capsule",
+      "cephalexin"
+    ],
+    "price": "210",
+    "specifications": {
+      "Product Type": "Capsule",
+      "Composition": "Cephalexin 500mg",
+      "Dosage - Adults": "1 capsule (500mg) every 6 to 12 hours",
+      "Dosage - Children": "Liquid suspension preferred. If swallowing capsules: 25-50 mg/kg/day divided.",
+      "Indications": "Skin/soft tissue infections; Strep throat; Bone infections; UTIs",
+      "Precautions": "Caution in patients with severe Penicillin allergy (cross-reactivity). Complete the entire prescribed course.",
+      "Storage": "Store below 30°C. Protect from moisture.",
+      "Disclaimer": "Prescription antibiotic. Use strictly under medical supervision."
+    }
+  },
+  {
+    "id": "nurokind-plus-rf-capsule",
+    "name": "Nurokind-Plus RF Capsule",
+    "category": "Capsule",
+    "image": "/products/Nurokind-Plus RF Capsule.webp",
+    "shortDescription": "Neurotropic supplement with Mecobalamin, Alpha Lipoic Acid, B6, and B9. Promotes nerve regeneration and treats diabetic neuropathy and B12 deficiency.",
+    "description": "Nurokind-Plus RF Capsule is an advanced neurotropic vitamin supplement combining Mecobalamin (Vitamin B12, C63H91CoN13O14P), Alpha Lipoic Acid (C8H14O2S2), Pyridoxine (B6), and Folic Acid (B9). Mecobalamin is the neurologically active form of B12 that promotes myelin sheath regeneration, while Alpha Lipoic Acid acts as a universal antioxidant protecting nerve tissues from oxidative stress. It is a cornerstone therapy for diabetic neuropathy (nerve damage from high blood sugar), improving sensory function, reducing numbness/tingling, and correcting severe B12 deficiencies.",
+    "benefits": [
+      "Actively promotes regeneration of damaged nerve fibers (myelin sheath)",
+      "Reduces neuropathic pain, numbness, and tingling sensations",
+      "Alpha Lipoic Acid provides powerful antioxidant protection to nerves",
+      "Corrects pernicious anemia and severe B12 nutritional deficiencies"
+    ],
+    "tags": [
+      "nerve health",
+      "vitamin b12",
+      "diabetic neuropathy",
+      "supplement",
+      "capsule",
+      "mecobalamin"
+    ],
+    "price": "110",
+    "specifications": {
+      "Product Type": "Nutritional Supplement Capsule",
+      "Composition": "Mecobalamin (B12), Alpha Lipoic Acid, Pyridoxine (B6), Folic Acid (B9)",
+      "Dosage - Adults": "1 capsule daily after a meal",
+      "Dosage - Children": "Not recommended unless diagnosed with severe deficiency by a doctor",
+      "Indications": "Diabetic neuropathy; Peripheral neuropathy; Vitamin B12 deficiency",
+      "Precautions": "Avoid alcohol as it inhibits B12 absorption and worsens nerve damage.",
+      "Storage": "Store below 25°C. Protect from light and moisture.",
+      "Disclaimer": "Use under medical supervision for neuropathic conditions."
+    }
+  },
+  {
+    "id": "vizylac-capsule",
+    "name": "Vizylac Capsule",
+    "category": "Capsule",
+    "image": "/products/Vizylac Capsule.webp",
+    "shortDescription": "Probiotic formulation with live Lactic Acid Bacillus spores and B-complex vitamins to restore healthy gut microflora and treat antibiotic-associated diarrhea.",
+    "description": "Vizylac Capsule is a targeted probiotic formulation packed with resilient Lactic Acid Bacillus spores, enriched with supportive B-complex vitamins. The robust spores survive the acidic environment of the stomach and germinate in the intestine, where they produce lactic acid to create an unfavorable environment for pathogenic bacteria. It effectively restores the balance of healthy gut microflora that is frequently disrupted by heavy antibiotic use, resolving antibiotic-associated diarrhea, flatulence, and general gastrointestinal distress while the B-vitamins support cellular energy.",
+    "benefits": [
+      "Rapidly restores healthy intestinal microbiome balance",
+      "Highly effective in treating and preventing antibiotic-associated diarrhea",
+      "Spore formulation survives stomach acid to reach the intestines alive",
+      "Alleviates bloating, flatulence, and general digestive distress"
+    ],
+    "tags": [
+      "probiotic",
+      "gut health",
+      "digestion",
+      "lactic acid bacillus",
+      "capsule"
+    ],
+    "price": "60",
+    "specifications": {
+      "Product Type": "Probiotic Supplement Capsule",
+      "Composition": "Lactic Acid Bacillus spores + B-complex vitamins",
+      "Dosage - Adults": "1 to 2 capsules daily",
+      "Dosage - Children": "Above 5 years: 1 capsule daily (if able to swallow)",
+      "Indications": "Antibiotic-associated diarrhea; Gut dysbiosis; Indigestion; Flatulence",
+      "Precautions": "Maintain a 2-hour gap between antibiotic dose and Vizylac to prevent spore destruction.",
+      "Storage": "Store below 25°C. Does not require strict refrigeration, but keep cool.",
+      "Disclaimer": "Dietary/Probiotic supplement. Consult doctor for prolonged diarrhea."
+    }
+  },
+  {
+    "id": "maxepa-softgel-capsule",
+    "name": "Maxepa Softgel Capsule",
+    "category": "Capsule",
+    "image": "/products/Maxepa Softgel Capsule.webp",
+    "shortDescription": "Lipid-regulating pure Omega-3 fatty acid supplement (EPA and DHA) for cardiovascular health, lowering triglycerides, and reducing joint inflammation.",
+    "description": "Maxepa Softgel Capsule is a premium lipid-regulating soft gelatin capsule containing highly purified Omega-3 Fatty Acids, primarily Eicosapentaenoic Acid (EPA, C20H30O2) and Docosahexaenoic Acid (DHA, C22H32O2). These essential fatty acids modulate lipid metabolism in the liver, effectively lowering elevated serum triglyceride levels. Furthermore, EPA acts as a precursor to anti-inflammatory eicosanoids, reducing systemic inflammation and joint stiffness. It provides excellent comprehensive support for cardiovascular health, arterial elasticity, and healthy cognitive function.",
+    "benefits": [
+      "Clinically proven to lower elevated blood triglyceride levels",
+      "Supports cardiovascular health and arterial flexibility",
+      "Reduces systemic inflammation and joint stiffness",
+      "Provides essential DHA for optimal brain and macular health"
+    ],
+    "tags": [
+      "omega-3",
+      "heart health",
+      "epa",
+      "dha",
+      "joint support",
+      "capsule",
+      "softgel"
+    ],
+    "price": "170",
+    "specifications": {
+      "Product Type": "Softgel Capsule",
+      "Composition": "Omega-3 Fatty Acids (EPA and DHA)",
+      "Dosage - Adults": "1 to 2 capsules daily with a meal",
+      "Dosage - Children": "Not typically prescribed in this dosage form",
+      "Indications": "Hypertriglyceridemia; Cardiovascular support; Joint inflammation; General wellness",
+      "Precautions": "Consult cardiologist if on blood-thinners (anticoagulants), as high doses may increase bleeding time. May cause fishy burps.",
+      "Storage": "Store below 25°C. Keep bottle tightly closed.",
+      "Disclaimer": "Nutritional supplement. Adjunct to diet and exercise."
+    }
+  },
+  {
+    "id": "otrivin-oxy-nasal-drops",
+    "name": "Otrivin Oxy",
+    "category": "Nasal Drops",
+    "image": "/products/Otrivin Oxy.jpg",
+    "shortDescription": "Direct-acting topical nasal decongestant (Xylometazoline 0.1%) providing rapid relief from severe nasal congestion and blocked nose.",
+    "description": "Otrivin Oxy contains Xylometazoline Hydrochloride (C16H24N2 · HCl) 0.1% w/v. It acts as a potent, direct-acting sympathomimetic topical nasal decongestant. By binding to alpha-adrenergic receptors in the nasal mucosa, it rapidly constricts the dilated and engorged blood vessels, reducing swelling and opening up the nasal passages. It provides fast, long-lasting (up to 10 hours) relief from severe nasal congestion caused by severe colds, sinusitis, or allergic rhinitis, allowing the patient to breathe easily.",
+    "benefits": [
+      "Rapidly unblocks the nose within minutes of application",
+      "Long-lasting decongestion effect lasting up to 10 hours",
+      "Direct topical action minimizes systemic side effects",
+      "Highly effective for severe colds, sinusitis, and allergies"
+    ],
+    "tags": [
+      "nasal congestion",
+      "cold relief",
+      "decongestant",
+      "xylometazoline",
+      "nasal drops"
+    ],
+    "price": "144",
+    "specifications": {
+      "Product Type": "Nasal Drops",
+      "Composition": "Xylometazoline Hydrochloride 0.1% w/v",
+      "Dosage - Adults": "2 to 3 drops into each nostril, 2 to 3 times a day",
+      "Dosage - Children": "Not for <12 years. Use pediatric 0.05% formulation instead.",
+      "Indications": "Severe nasal congestion; Common cold; Sinusitis; Allergic rhinitis",
+      "Precautions": "Do not use for >5-7 consecutive days to prevent rebound congestion (rhinitis medicamentosa).",
+      "Storage": "Store below 30°C. Do not freeze.",
+      "Disclaimer": "For topical nasal use only. Avoid prolonged continuous use."
+    }
+  },
+  {
+    "id": "nasivion-baby-nasal-drops",
+    "name": "Nasivion Baby Nasal Drops",
+    "category": "Nasal Drops",
+    "image": "/products/Nasivion Baby Nasal Drops.webp",
+    "shortDescription": "Extremely mild (0.01% Oxymetazoline) decongestant nasal drops tailored specifically for infants to safely clear blocked noses and improve feeding/sleep.",
+    "description": "Nasivion Baby Nasal Drops is formulated with Oxymetazoline Hydrochloride (C16H24N2O · HCl) at an ultra-low concentration of 0.01% w/v. It is an extremely mild sympathomimetic decongestant tailored specifically for the delicate nasal mucosa of infants. By gently constricting swollen blood vessels in the nasal cavity, it provides fast and long-lasting relief from blocked noses. This helps infants breathe easier, which is critical for them to be able to feed and sleep comfortably during upper respiratory tract infections.",
+    "benefits": [
+      "Ultra-low 0.01% concentration safely tailored for infants",
+      "Clears blocked noses rapidly, allowing infants to feed properly",
+      "Long-lasting relief ensures uninterrupted, restful sleep",
+      "Gentle formulation minimizes irritation to baby's nasal lining"
+    ],
+    "tags": [
+      "pediatric",
+      "infant care",
+      "blocked nose",
+      "oxymetazoline",
+      "nasal drops"
+    ],
+    "price": "84",
+    "specifications": {
+      "Product Type": "Pediatric Nasal Drops",
+      "Composition": "Oxymetazoline Hydrochloride 0.01% w/v",
+      "Dosage - Adults": "Not effective for adults",
+      "Dosage - Children": "Infants up to 1 year: 1 drop in each nostril, up to 2-3 times daily",
+      "Indications": "Nasal congestion in infants; Blocked nose affecting feeding",
+      "Precautions": "Strictly follow pediatrician's dosage. Keep out of reach to prevent oral ingestion (serious CNS/cardiac risks).",
+      "Storage": "Store below 30°C. Protect from direct sunlight.",
+      "Disclaimer": "Use strictly under the guidance of a pediatrician."
+    }
+  },
+  {
+    "id": "nasoclear-nasal-drops",
+    "name": "Nasoclear Nasal Drops",
+    "category": "Nasal Drops",
+    "image": "/products/Nasoclear Nasal Drops.jpg",
+    "shortDescription": "Sterile isotonic 0.65% saline nasal drops to moisturize dry nasal passages, flush out allergens, and thin thick mucus for daily nasal hygiene.",
+    "description": "Nasoclear Nasal Drops is a sterile, non-medicated isotonic solution containing 0.65% w/v Sodium Chloride (NaCl). It safely and naturally clears nasal congestion by flushing out environmental allergens, dust, and irritants. Furthermore, it moisturizes dry, irritated nasal passages and thins out thick, stubborn nasal mucus, making it much easier to expel. Because it is drug-free, it maintains healthy daily nasal hygiene without the risk of rebound congestion, making it entirely safe for all age groups, including newborns.",
+    "benefits": [
+      "Drug-free isotonic saline — completely safe for long-term daily use",
+      "Naturally thins and loosens thick mucus for easy expulsion",
+      "Flushes out dust, pollen, and allergens from the nasal cavity",
+      "Soothes and moisturizes dry, irritated nasal passages"
+    ],
+    "tags": [
+      "saline drops",
+      "nasal hygiene",
+      "moisturizer",
+      "safe for all ages",
+      "nasal drops"
+    ],
+    "price": "61",
+    "specifications": {
+      "Product Type": "Isotonic Saline Drops",
+      "Composition": "Sodium Chloride 0.65% w/v",
+      "Dosage - Adults": "2 to 4 drops in each nostril, as often as needed",
+      "Dosage - Children": "2 to 3 drops in each nostril, as often as needed",
+      "Indications": "Dry nasal mucosa; Daily nasal hygiene; Crusty nasal mucus; Allergen flushing",
+      "Precautions": "Avoid touching the dropper tip to the inner nose to prevent bacterial contamination of the bottle.",
+      "Storage": "Store below 30°C. Discard 1 month after opening.",
+      "Disclaimer": "Over-the-counter daily hygiene product."
+    }
+  },
+  {
+    "id": "himalaya-bresol-ns-nasal-solution",
+    "name": "Himalaya Bresol-NS Nasal Solution",
+    "category": "Nasal Drops",
+    "image": "/products/Himalaya Bresol-NS Nasal Solution.webp",
+    "shortDescription": "Ayurvedic isotonic saline drops enriched with Indian Borage and Licorice to soothe inflammation, clear mucus, and relieve allergic rhinitis naturally.",
+    "description": "Himalaya Bresol-NS Nasal Solution is a unique Ayurvedic nasal formulation. It combines the mucosal-clearing isotonic benefits of Sodium Chloride (NaCl) with potent herbal aqueous extracts of Plectranthus amboinicus (Indian Borage) and Glycyrrhiza glabra (Licorice). Licorice provides deep, soothing anti-inflammatory properties to calm irritated nasal linings, while Indian Borage acts to break down and clear thickened mucous. It effectively and naturally relieves nasal congestion due to environmental allergies, common colds, and dry weather without causing any chemical rebound effect.",
+    "benefits": [
+      "Combines saline flushing with herbal anti-inflammatory actions",
+      "Licorice (Yashtimadhu) naturally soothes irritated nasal mucosa",
+      "Indian Borage (Parnayavani) helps thin and clear thick mucus",
+      "Natural and non-habit forming — zero risk of rebound congestion"
+    ],
+    "tags": [
+      "ayurvedic",
+      "herbal relief",
+      "allergic rhinitis",
+      "natural",
+      "nasal drops",
+      "himalaya"
+    ],
+    "price": "67",
+    "specifications": {
+      "Product Type": "Ayurvedic Saline Nasal Solution",
+      "Composition": "Sodium Chloride, extracts of Plectranthus amboinicus and Glycyrrhiza glabra",
+      "Dosage - Adults": "2 to 3 drops in each nostril, 3 to 4 times daily",
+      "Dosage - Children": "1 to 2 drops in each nostril, 3 to 4 times daily",
+      "Indications": "Allergic rhinitis; Nasal congestion; Dry nasal mucosa; Colds",
+      "Precautions": "Check for individual herbal allergies. Discontinue if burning or irritation occurs.",
+      "Storage": "Store in a cool, dry place away from direct sunlight.",
+      "Disclaimer": "Ayurvedic proprietary medicine."
+    }
+  },
+  {
+    "id": "betnesol-nasal-drops",
+    "name": "Betnesol Eye/Ear/Nasal Drops",
+    "category": "Nasal Drops",
+    "image": "/products/Betnesol Nasal Drops.avif",
+    "shortDescription": "Potent topical corticosteroid (Betamethasone 0.1%) drops to powerfully suppress severe inflammation, allergic rhinitis, and nasal polyps.",
+    "description": "Betnesol Eye/Ear/Nasal Drops is a highly potent multi-use formulation containing Betamethasone Sodium Phosphate (C22H28FNa2O8P) 0.1% w/v, a synthetic topical corticosteroid. By entering cellular nuclei and modulating gene expression, it powerfully inhibits the release of inflammatory mediators (prostaglandins, leukotrienes). It is highly effective at suppressing severe, localized inflammation, swelling, and allergic reactions in the nasal mucosa. It is frequently prescribed as a targeted therapy for severe, persistent allergic rhinitis or for shrinking inflamed nasal polyps.",
+    "benefits": [
+      "Potent steroidal action stops severe inflammation at the cellular level",
+      "Highly effective for persistent, severe allergic rhinitis",
+      "Clinical efficacy in shrinking swollen nasal polyps",
+      "Provides rapid relief from severe allergic mucosal swelling"
+    ],
+    "tags": [
+      "corticosteroid",
+      "anti-inflammatory",
+      "severe allergy",
+      "prescription only",
+      "betamethasone",
+      "nasal drops"
+    ],
+    "price": "23",
+    "specifications": {
+      "Product Type": "Corticosteroid Drops",
+      "Composition": "Betamethasone Sodium Phosphate 0.1% w/v",
+      "Dosage - Adults": "2 to 3 drops into nostrils 2-3 times daily, tapering as symptoms improve",
+      "Dosage - Children": "Strictly under direct pediatric/ENT prescription only",
+      "Indications": "Severe allergic rhinitis; Nasal polyps; Severe nasal mucosal inflammation",
+      "Precautions": "Do not use if an untreated viral/fungal/bacterial nasal infection is present. Prolonged use risks systemic absorption.",
+      "Storage": "Store below 25°C. Do not freeze.",
+      "Disclaimer": "Prescription only. Potent steroid — use strictly as directed by a doctor."
+    }
   }
 ];
 
