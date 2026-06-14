@@ -261,3 +261,19 @@
     min-width: 340px;
   }
 }
+
+@media (max-width: 480px) {
+  .pc-details {
+    padding: var(--space-sm);
+  }
+  
+  .pc-name {
+    font-size: 11px;
+    min-height: 28px;
+  }
+
+  .pc-add-btn, .qty-selector {
+    height: 32px;
+    font-size: 12px;
+  }
+}

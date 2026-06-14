@@ -447,6 +447,10 @@
     display: none;
   }
 
+  .logo-icon-img {
+    height: 50px;
+  }
+
   .main-nav-inner {
     padding: 0 var(--space-sm);
     justify-content: flex-start;

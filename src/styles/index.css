@@ -547,7 +547,7 @@ input::placeholder, textarea::placeholder {
 /* ── Responsive Grid ── */
 .product-grid {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
   gap: var(--space-base);
 }
 

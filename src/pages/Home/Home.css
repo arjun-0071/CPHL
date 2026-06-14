@@ -800,6 +800,42 @@
   z-index: 3;
 }
 
+/* ── Mobile Responsive Adjustments ── */
+@media (max-width: 719px) {
+  .hero {
+    padding: var(--space-xl) 0 var(--space-2xl);
+  }
+  
+  .hero-inner {
+    flex-direction: column;
+    text-align: center;
+  }
+  
+  .hero-title {
+    font-size: 28px;
+  }
+
+  .hero-actions {
+    justify-content: center;
+  }
+
+  .hero-stats {
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .hiw-grid {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+@media (max-width: 480px) {
+  .categories-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 .category-card:hover {
   box-shadow: 0 20px 40px rgba(0, 0, 0, 0.08);
   transform: translateY(-6px);
