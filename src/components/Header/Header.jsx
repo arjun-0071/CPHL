@@ -267,7 +267,6 @@ export default function Header() {
           />
           <div className="mobile-menu" id="mobile-menu">
             <div className="mobile-menu-header">
-              <img src="/CPHL_LOGO.svg" alt="CPHL Logo" className="logo-icon-img" />
               <span className="mobile-menu-title">CPHL</span>
               <button onClick={() => setMobileMenuOpen(false)}>
                 <X size={24} />

@@ -69,7 +69,7 @@ export default function ProductDetail() {
         </button>
 
         {/* Product Main */}
-        <div className="pd-main" style={{ display: 'grid', gridTemplateColumns: 'minmax(300px, 1fr) 1.5fr', gap: '60px', alignItems: 'start', marginTop: '20px' }}>
+        <div className="pd-main">
           
           {/* Images */}
           <div className="pd-gallery" style={{ position: 'sticky', top: '100px' }}>
@@ -144,7 +144,7 @@ export default function ProductDetail() {
         </div>
 
         {/* Benefits & Specifications */}
-        <div className="pd-bottom" style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '60px', marginTop: '80px' }}>
+        <div className="pd-bottom">
           
           <div className="pd-benefits">
             <h2 className="pd-section-title" style={{ fontSize: '28px', marginBottom: '24px', color: 'var(--color-text)', borderBottom: '2px solid var(--color-primary)', display: 'inline-block', paddingBottom: '8px' }}>Key Benefits</h2>
@@ -169,10 +169,10 @@ export default function ProductDetail() {
               <div style={{ border: '1px solid var(--color-border)', borderRadius: '16px', overflow: 'hidden', boxShadow: '0 4px 12px rgba(0,0,0,0.02)' }}>
                 {Object.entries(product.specifications).map(([key, value], idx) => (
                   <div key={key} style={{ display: 'flex', borderBottom: idx !== Object.entries(product.specifications).length - 1 ? '1px solid var(--color-border)' : 'none', backgroundColor: idx % 2 === 0 ? 'var(--color-bg-alt)' : '#fff' }}>
-                    <div style={{ width: '35%', padding: '20px', fontWeight: '600', color: 'var(--color-text)', borderRight: '1px solid var(--color-border)', fontSize: '15px' }}>
+                    <div className="pd-spec-key">
                       {key}
                     </div>
-                    <div style={{ width: '65%', padding: '20px', color: 'var(--color-text-light)', fontSize: '15px', lineHeight: '1.6' }}>
+                    <div className="pd-spec-value">
                       {value}
                     </div>
                   </div>
