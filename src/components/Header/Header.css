@@ -451,6 +451,10 @@
     height: 50px;
   }
 
+  .nav-dropdown-container {
+    display: none;
+  }
+
   .main-nav-inner {
     padding: 0 var(--space-sm);
     justify-content: flex-start;

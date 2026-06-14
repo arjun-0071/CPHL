@@ -72,7 +72,7 @@ export default function ProductDetail() {
         <div className="pd-main">
           
           {/* Images */}
-          <div className="pd-gallery" style={{ position: 'sticky', top: '100px' }}>
+          <div className="pd-gallery">
             <div className="pd-image-main" style={{ backgroundColor: 'var(--color-bg-secondary)', borderRadius: '24px', padding: '40px', display: 'flex', alignItems: 'center', justifyContent: 'center', aspectRatio: '1/1', border: '1px solid var(--color-border)' }}>
               {!imgError ? (
                 <img src={product.image || '/CPHL_Logo.png'} alt={product.name} style={{ width: '100%', height: '100%', objectFit: 'contain', mixBlendMode: 'multiply' }} onError={() => setImgError(true)} />

@@ -10,6 +10,7 @@
 .breadcrumb {
   display: flex;
   align-items: center;
+  flex-wrap: wrap;
   gap: var(--space-sm);
   padding: var(--space-base) 0;
   font-size: var(--font-size-sm);
